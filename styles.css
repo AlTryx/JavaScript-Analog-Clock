@@ -41,3 +41,14 @@ body {
     left: 148px;
     bottom: 148px;
 }
+
+#center {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: rgb(252, 255, 55);
+    left: 145px;
+    bottom: 145px;
+
+}
