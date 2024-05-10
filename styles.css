@@ -12,6 +12,7 @@ body {
     width: 300px;
     border-radius: 150px;
     border: solid 5px rgb(252, 255, 55);
+    background-color:rgb(104, 104, 104);
 }
 
 #seconds-hand {
